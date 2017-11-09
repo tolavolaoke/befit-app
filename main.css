@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+ font-family: 'Lato', sans-serif;
+}
+
+.white{
+  height: 500px;
+  width: 200px;
+  border: solid;
+  padding: 10px;
+  float: left; 
+  margin:10px;
+}
+
+.blue {
+  background-color: #2196F3;
+  border: 3px solid darkblue;
+  height: 500px;
+  width: 200px;
+  padding: 10px;
+  margin:10px;
+  float: left;
+}
+
+img{
+  height:50px;
+  width:50px;
+}
